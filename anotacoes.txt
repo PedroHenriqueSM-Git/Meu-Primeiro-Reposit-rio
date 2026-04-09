@@ -1,3 +1,0 @@
-Python
-Banco de dados
-Machine Learning
